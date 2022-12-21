@@ -1,0 +1,16 @@
+{
+  "name": "sir-zia-repo-practice",
+  "version": "1.0.0",
+  "description": "Developed after reading all related articles",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "start": "tsc && node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aqeel Shahzad",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^18.11.17"
+  }
+}
